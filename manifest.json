@@ -1,0 +1,10 @@
+{
+  "name": "Kanban Board",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "A simple Kanban board for organizing tasks with drag-and-drop functionality.",
+  "action": {
+  	"default_icon": "icon.png",
+  	"default_popup": "index.html"
+  }
+}
